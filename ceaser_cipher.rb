@@ -29,5 +29,3 @@ def get_shifted_index(index, shift_num)
     end
     next_index
 end
-
-puts caeser_cipher("What a string!", 13)
